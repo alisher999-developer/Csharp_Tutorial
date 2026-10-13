@@ -1,2 +1,2 @@
 # C# Tutorial
-![C# Tutorial](C#_Logo.jpeg)
+![C# Tutorial](Csharp_Logo.jpeg)
