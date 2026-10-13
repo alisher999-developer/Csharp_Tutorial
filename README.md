@@ -1,2 +1,2 @@
 # C# Tutorial
-![C# Tutorial](C#_Logo.jpeg)
+<img src="C#_Logo.jpeg" alt="C# Tutorial"></img>
