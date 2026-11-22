@@ -10,7 +10,7 @@ namespace Project
         {
             int[] arr = { 1, 2, 3, 4, -5 };
 
-            int min = 0;
+            int min = arr[0];
 
             for (int i = 0; i < arr.Length; i++)
             {
